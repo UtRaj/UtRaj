@@ -6,7 +6,7 @@ Currently exploring the latest in AI, automation and cloud integration, which ke
 Let’s connect and build something innovative! 🚀  
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshraj08) 
 
 
