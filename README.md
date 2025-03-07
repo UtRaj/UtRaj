@@ -1,4 +1,5 @@
-### Hey there! 👋  
+# Hey there! 👋  
+
 I'm Utkarsh Raj, a CS major and Data-driven engineer specializing in Data Science, Generative AI and DevOps, with expertise in Python, SQL, NLP and cloud platforms (AWS, Docker, Kubernetes). I am proficient in using Libraries, Frameworks, Tools, LLM Models, Hugging-Face and LangChain and I have hands-on experience in building scalable AI Solutions, automating Data Pipelines and building AI Agents and  Agentic AI workflow.
 
 Currently exploring the latest in AI, automation and cloud integration, which keeps me motivated. 
